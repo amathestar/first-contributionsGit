@@ -835,6 +835,7 @@ Nikhil R
 - [Conner Luff]
 - [Jamey Bryce](https://github.com/jameydev)
 - [Nenos Hu](https://github.com/Nenos-Hu)
+- [Anirudh Arkery](https://github.com/anirudharkery)
 - [Jatin Sood]
 - [Jorge Cano]
 - [Arda Dönmez](https://github.com/Kashidex)
